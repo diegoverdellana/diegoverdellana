@@ -1,7 +1,7 @@
 ## Hola Mi nombre es Diego Díaz Verdellana  👋
 Soy Product Manager /  Project Manager
 
-Mis primeros pasos  en esta rama se dieron de manera empírica para luego ya pasar a trabjar con metdología a partir de  diciembre del 2023 a partir de la carrera de seguir la carrera de product manager en CODERHOUSE. Luego en 2024 ya con mayor conocimiento del tema decidí trabajar utilizando herramientas adecuadas para lograr desarrollar productos centrados en el usuario.
+Mis primeros pasos  en esta rama se dieron de manera empírica para luego ya pasar a trabajar con metdología  y herramientas adecuadas a partir de  diciembre del 2023 a partir de la carrera de seguir la carrera de product manager en CODERHOUSE. Luego en 2024 ya con mayor conocimiento del tema decidí trabajar utilizando herramientas adecuadas para lograr desarrollar productos centrados en el usuario.
 
 <!--
 **diegoverdellana/diegoverdellana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
