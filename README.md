@@ -1,7 +1,8 @@
 ## Hola Mi nombre es Diego Díaz Verdellana  👋
-Soy un Científico de Datos, enfocado en el área de Data Engineer y Bases de Datos.
+Soy Product Manager /  Project Manager
 
-Mis primeros pasos por el ámbito de los datos vienen de la mano con un BootCamp intensivo llamado SoyHenry que me fue introducido en el año 2022. Luego en 2023 con mis conocimientos de programación y base de datos más interiorizados, decidí por fin entrar y aventurarme en las distintas etapas de la ciencia de datos.
+Mis primeros pasos  en esta rama se dieron de manera empírica para luego ya pasar a trabjar con metdología a partir de  diciembre del 2023 a partir de la carrera de seguir la carrera de product manager en CODERHOUSE. Luego en 2024 ya con mayor conocimiento del tema decidí trabajar utilizando herramientas adecuadas para lograr desarrollar productos centrados en el usuario.
+
 <!--
 **diegoverdellana/diegoverdellana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
